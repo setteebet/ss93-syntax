@@ -1,0 +1,18 @@
+{
+  "name": "ss93-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottovipรวยออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottovipรวยออนไลน์",
+"แทงเว็บหวย",
+"lottovip download",
+"เล่นหวยรัฐบาลออนไลน์",
+"เวปhuaydee"
+],
+  "repository": "https://github.com/setteebet/ss93-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
